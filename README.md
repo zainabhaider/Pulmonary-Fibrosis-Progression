@@ -1,7 +1,7 @@
 # Pulmonary-Fibrosis-Progression
 My goal for this project was to predict longitudinal changes in lung capacity for patients with pulmonary fibrosis, using the OSIC Pulmonary Fibrosis Progression dataset on Kaggle. 
 
-Lung capacity is measured through Forced Vital Capacity (FVC), which is a measure of the maximal exhalation of air from the lungs, in mililiters.
+Lung capacity is measured through Forced Vital Capacity (FVC), which is a measure of the maximal exhalation of air from the lungs, in milliliters.
 In this project, I utilized Multiple Linear Regression to predict FVC, given features such as age, sex, smoking status, and time since baseline assessments. 
 
 **Summary**:
